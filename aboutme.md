@@ -25,7 +25,7 @@ Unfortunately due to blatant stupidity and prior to reading Zen and the Art of M
 
 Even though it was the end of the motorcycle about 5 years after its demise we were shocked to get a phone call tracking the license plate to us. Again young and ignorant who would of thought people steel license plates to commit crimes. 
 
-After many years (15 or so) and 3 other living locations we moved back to Winnipeg. It was just after we moved that we welcomed a new motorcycle into our garage a 1999 Yamaha Cruiser (1000 cc). For the most part this was, my great husbands (yep, still) bike which he will have to create his own website to share his many adventures (about 100,000 km). I would drive it on occasion but was a passenger to "ride pillion" which is a great perch to make many an observation.
+After many years (15 or so) and 3 other living locations we moved back to Winnipeg. It was just after we moved that we welcomed a new motorcycle into our garage a 2000 Yamaha V-Star 1100. For the most part this was, my great husbands (yep, still) bike which he will have to create his own website to share his many adventures (about 100,000 km). I would drive it on occasion but was a passenger to "ride pillion" which is a great perch to make many an observation.
 
 An aside - A pillion is a secondary pad, cushion or seat behind the main seat or saddle of a horse, motorcycle, bicycle or moped. A passenger in this seat is said to "ride pillion". The word is derived from the Scottish Gaelic for "little rug". Thank you Wikipedia.
 
