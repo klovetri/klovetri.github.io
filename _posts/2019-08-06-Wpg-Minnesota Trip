@@ -1,3 +1,52 @@
-MC RIDE WINNIPEG-FARGO-ST.CLOUD-FORT FRANCES-WINNIPEG (1548 KM)
+
 
 August 2, 2019 - Left Winnipeg with a temperature of 31oC heading directly south on the 75 highway to the Canada-US border. Continued on the I-29 to Grand Forks (gas and rest break) then on to Fargo. This was a total of 346 km with no cross wind.
+---
+layout: MC RIDE WINNIPEG-FARGO-ST. CLOUD-FORT FRANCES-WINNIPEG (1548 KM)
+---
+
+{% include header.html type="wINNIPEG - MINNESOTA" %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      {% if page.gh-repo %}
+        {% assign gh_split =  page.gh-repo | split:'/'  %}
+        {% assign gh_user =  gh_split[0]  %}
+        {% assign gh_repo =  gh_split[1]  %}
+
+        <div id="header-gh-btns">
+          {% if page.gh-badge.size > 0 %}
+            {% for badge in page.gh-badge %}
+              {% case badge %}
+                {% when 'star'%}
+                  <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&repo={{ gh_repo }}&type=star&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                {% when 'watch'%}
+                  <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&repo={{ gh_repo }}&type=watch&v=2&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                {% when 'fork'%}
+                  <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&repo={{ gh_repo }}&type=fork&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                {% when 'follow'%}
+                  <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&type=follow&count=true" frameborder="0" scrolling="0" width="220px" height="20px"></iframe>
+              {% endcase %}
+            {% endfor %}
+          {% endif %}
+        </div>
+      {% endif %}
+
+      <article role="main" class="blog-post">
+        {{ content }}
+      </article>
+
+      {% if page.tags.size > 0 %}
+        <div class="blog-tags">
+          Tags:
+          {% if site.link-tags %}
+          {% for tag in page.tags %}
+            <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+          {% endfor %}
+          {% else %}
+            {{ page.tags | join: ", " }}
+          {% endif %}
+        </div>
+      {% endif %}
