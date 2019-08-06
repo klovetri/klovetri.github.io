@@ -5,7 +5,7 @@ August 2, 2019 - Left Winnipeg with a temperature of 31oC heading directly south
 layout: MC RIDE WINNIPEG-FARGO-ST. CLOUD-FORT FRANCES-WINNIPEG (1548 KM)
 ---
 
-{% include header.html type="wINNIPEG - MINNESOTA" %}
+{% include header.html type="WINNIPEG - MINNESOTA" %}
 
 <div class="container">
   <div class="row">
