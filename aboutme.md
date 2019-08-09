@@ -13,7 +13,7 @@ My name is Karen.
 
 I grew up on a farm and started driving vehicles in the fields when I was 10 years old. I couldn't wait to turn 16 so I could get my driver's license. Back many years ago if you wanted to buy a cheap vehicle to drive you purchased a motorcycle. My brother and I went halfers on a 1987 Kawasaki 305 LTD when I was 17. It was fantastic! I remember taking it out for an extended trip to visit my grandparents which was a three and a half hour drive north west of where I lived. I don't remember it being particularly uncomfortable but I do recall a number of acrobatics with various leg placements as I drove down the highway. I am sure I gave many a motorists a reason to look twice as they were moving up close to pass me.
 
-![Kawasaki 305 LTD](https://github.com/home/karen/Desktop/Kawasaki%20305%20small.jpg)!
+![Kawasaki 305 LTD](https://github.com/photos-for-website/Kawasaki 305 small.jpg)
 
 One of the scariest times I had on this little bike was when I was driving down the #1 highway east from Winnipeg, there was a very strong cross wind and I remember going fast to pass a semi trailer, then of course when I just pulled ahead the cross wind pushed my bike almost into the ditch. Lesson well learnt and still to this day I have great respect for the wind!!
 
