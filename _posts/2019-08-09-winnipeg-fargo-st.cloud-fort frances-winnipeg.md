@@ -6,7 +6,7 @@ bigimg: /img/path.jpg
 tags: []
 ---
 
-**August 2 - WINNIIPEG,MB TO FARGO,ND (346 KM)**
+**August 2 - WINNIIPEG, MB TO FARGO, ND (346 KM)**
 
 The route is very very straight forward, Highway 75 South out of Winnipeg to the Manitoba-United States border (at Emerson), continue straight on I-29 through Grand Forks and then to Fargo.
 
