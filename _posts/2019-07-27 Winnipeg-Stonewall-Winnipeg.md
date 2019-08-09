@@ -17,5 +17,8 @@ In a matter of minutes you will be at the intersection to turn left onto Hwy 26 
 Just past the town of Warren you will turn left onto Hwy 67 to the town of Stonewall. Turn left onto 5th Street West to enter the town  and turn right at 2nd Ave N then left at Main Street this will take you into the parking lots of the [Stonewall Quarry Park](www.stonewallquarrypark.ca). They have an Interpretive Centre, trails, a manmade swimming area (called Kinsmen Lake) with lifeguards and a canteen for a drink and some food. We enjoyed cooling our feet in Kinsmen Lake and relaxing before our journey back home. Stonewall also has numerous restaurants and a Tim Hortons (corner of Hwys 236 and 67). 
 Back on the bike and head back south on Main Street and turn left on 3rd Ave N then turn right onto Hwy 236. As you are heading down this road just out of Stonewall there is a great wall (about 2 km long) on your right of very very tall spruce trees (great fore thought by the tree planters many years ago). These trees provided some great shade as we were driving. The smell of a halfalfa field greated my nose as well as golden wheat field contrasted to the green corn field. Hwy 236 will bring you to Hwy 6 take a left then exit onto the perimeter hwy in the direction that will bring you back to your home. 
 
+Google map route
+
+
 Happy Riding!!
 Until my next post.
