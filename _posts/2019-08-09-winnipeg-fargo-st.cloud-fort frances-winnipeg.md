@@ -16,7 +16,7 @@ I had my riding pants on with my flaps open as well as my riding jacket with all
 The only time that I got heated up was waiting at the Canada-US border in Emerson. 
 Fortunately the wait was only about 10 minutes. 
 We had a great riding day, sunny, clear, and no cross wind (yah whoo!!).
-We made a quick gas and snack stop in Grand Forks and we saw a lot of cyclists either driving or hauling there bikes in the direction of Sturgis, South Dakota as the yearly ritual was on the cusp of starting (https://www.sturgismotorcyclerally.com/index.php?page=home).
+We made a quick gas and snack stop in Grand Forks and we saw a lot of cyclists either driving or hauling there bikes in the direction of Sturgis, South Dakota as the yearly ritual was on the cusp of starting [Sturgis](https://www.sturgismotorcyclerally.com/index.php?page=home).
 
 August 3rd - (417 KM)
 
