@@ -2,7 +2,7 @@
 layout: post
 title: WINNIPEG-FARGO-ST. CLOUD-FORT FRANCES (1548 KM)
 subtitle: Exploring Minnesota by Motorcycle
-bigimg: /img/bgimage.png
+bigimg: /img/path.jpg
 tags: []
 ---
 
