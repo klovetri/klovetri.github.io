@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PICKING UP THE BMW!
-bigimp: /img/path.jpg
+bigimp: /img/F700GS.jpg
 tags:[]
 ---
 
