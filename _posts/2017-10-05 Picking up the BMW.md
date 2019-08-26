@@ -1,7 +1,8 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: PICKING UP THE BMW!
+bigimp: /img/path.jpg
+tags:[]
 ---
 
 Even though this is dated 2019 which is when I physically added this to my website, in time I am describing events that happened in October of 2017. 
