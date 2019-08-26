@@ -6,6 +6,8 @@ bigimg: /img/path.jpg
 tags: []
 ---
 
-October , 2017
+**October , 2017**
+
 We head out to pick up the used 2017 BMW F700 GS
 this is what we did!!
+
