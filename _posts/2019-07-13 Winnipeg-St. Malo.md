@@ -5,6 +5,9 @@ subtitle: Exploring Manitoba by Motorcycle
 bigimg: /img/path.jpg
 tags: []
 ---
+
+**July 13, 2019**
+
 It was about 26 degrees C.
 I rode with jeans and my riding jacket with my vents open with a t-shirt underneath.
 
