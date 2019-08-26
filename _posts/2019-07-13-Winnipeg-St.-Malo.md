@@ -2,7 +2,7 @@
 layout: post
 title: WINNIPEG-ST. MALO MB (162 KM)
 subtitle: Exploring Manitoba by Motorcycle
-bigimg: /img/path.jpg
+bigimg: /img/F700GS.jpg
 tags: []
 ---
 
