@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Winnipeg-Stonewall (168 KM)
+title: WINNIPEG-STONEWALL (168 KM)
 subtitle: Exploring Stonewall, MB by Motorcycle
 bigimg: /img/F700GS.jpg
 tags: []
