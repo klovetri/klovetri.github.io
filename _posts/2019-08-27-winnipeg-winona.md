@@ -37,7 +37,7 @@ everyone is very friendly and they have pre-show talks, food trucks, souvenirs. 
 
 **July 28 - Winona, MN - Grand Forks, ND**
 
-Before leaving Winona we 
+Before leaving Winona we had time to drive up to Griffin Park and Lookout. Then we took a walk around one of the Lakes (rental of boats available) which are part of Winona and belong to the Mississippi River.
 
 
 
