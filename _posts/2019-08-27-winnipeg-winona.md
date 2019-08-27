@@ -17,7 +17,7 @@ Excellent weather left Winnipeg on Thursday evening to ride to Fargo. Straight f
 **July 27 - Fargo, ND to Winona, MN** (pit stop in Minneapolis)
 
 Excellent weather for the day. We took the I-94 from Fargo to Lakeville, MN (suburb of Minneapolis) 
-directly to [Leo's South] (http://www.leossouth.com) where Joe's Aprilia will be serviced. The alternate dealers 
+directly to [Leo's South] (http://wwwleossouth.com) where Joe's Aprilia will be serviced. The alternate dealers 
 for Aprilia service are in Calgary or Montreal. Minneapolis is usually a more convenient location for us to get the service. 
 
 We are both riding on the BMW from Lakeville, MN to [Winona, MN] (https://www.en.m.wikipedia.org). We picked up highway 52 south (south of Minneapolis/St. Paul) in the direction of Hampton. We turned east on highway 50/61 through Milesville. 
