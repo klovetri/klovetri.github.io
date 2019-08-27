@@ -10,11 +10,11 @@ Even though this ride was posted in 2019 the ride was done in 2018
 
 **July 26-29, 2018**
 
-**July 26 - Winnipeg to Fargo**
+**July 26 - Winnipeg to Fargo, ND**
 
 Excellent weather left Winnipeg on Thursday evening to ride to Fargo. Straight forward ride.
 
-**July 27 - Fargo to Winona, MN** (pit stop in Minneapolis)
+**July 27 - Fargo, ND to Winona, MN** (pit stop in Minneapolis)
 
 Excellent weather for the day. We took the I-94 from Fargo to Lakeville, MN (suburb of Minneapolis) 
 directly to [Leo's South] (http://leossouth.com) where Joe's Aprilia will be serviced. The alternate dealers 
