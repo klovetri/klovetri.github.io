@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WINNIPEG - LOCKPORT (KM)
+title: WINNIPEG-LOCKPORT (KM)
 subtitle: none right now
 big img:/img/F700GS.jpg
 tags: []
