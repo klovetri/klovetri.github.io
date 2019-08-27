@@ -2,7 +2,7 @@
 layout: post
 title: WINNIPEG-WINONA, MN (1858 KM)
 subtitle: The Shakespeare Festival with a pit stop in Minneapolis
-bigimg:/img/path.jpg
+bigimg: /img/path.jpg
 tags: []
 ---
 
