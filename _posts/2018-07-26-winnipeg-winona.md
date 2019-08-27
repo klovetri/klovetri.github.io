@@ -30,5 +30,14 @@ Highway 61 takes us right into Red Wing, a town made famous by the manufacturing
 ceramics production facility that I didn't stop at but would be a must stop for one of my friends who is a clay crafter. 
 At Red Wing highway 61 follows the Mississippi River and is called The Great River Road. This roadway starts at the 
 Mississippi head waters, and runs through the states of Minnisota, Illinois, Missouri, Kentucky, Arkansa, Tennesse, Mississippi, 
-and Alabama to finally drain into the Gulf of Mexico.  
+and Alabama to finally drain into the Gulf of Mexico (3rd largest river in the United States and is 2,300 miles that is 3,701 km). Highway 61 rambles along the Mississippi running parallel to it from Frontenac to Reads Landing and then from just before Minneiska to just before Winona. If you want to get more views of the river cross into Wisconsin at Red Wing following highway 35 which hugs the Mississippi pretty much all the way to Winona. We had previously travelled this route via car (pre-BMW ownership). There are many wineries and picturesque spots on either side of the Mississippi regardless of which side you choose to ride on.
+
+We arrived in Winona and met up with our daughter and her fiance at [The Plaza Hotel & Suites] (https:/plazawinona.com). We then went to the play Shakespeare in Love performed by the very talented group of performers which usually play parts in the 3 to 4 productions that run from late June to early August at the  [The Great River Shakespeare Festival] (https:/grsf.org) The venue is the Winona State University Performing Arts Center [Winona State University] (https:/winona.edu). I just love the festival here
+everyone is very friendly and they have pre-show talks, food trucks, souvenirs. The talent is very big city but with small town Winona charm. 
+
+**July 28 - Winona, MN - Grand Forks, ND**
+
+Before leaving Winona we 
+
+
 
