@@ -6,7 +6,7 @@ bigimg: /img/path.jpg
 tags: []
 ---
 
-Even though this ride was posted in 2019 the ride was done in 2018
+Even though this ride was posted in 2019 we did this ride in **2018**
 
 **July 26-29, 2018**
 
@@ -17,7 +17,7 @@ Excellent weather left Winnipeg on Thursday evening to ride to Fargo. Straight f
 **July 27 - Fargo, ND to Winona, MN** (pit stop in Minneapolis)
 
 Excellent weather for the day. We took the I-94 from Fargo to Lakeville, MN (suburb of Minneapolis) 
-directly to [Leo's South] (http://wwwleossouth.com) where Joe's Aprilia will be serviced. The alternate dealers 
+directly to [Leo's South] (https://www.leossouth.com) where Joe's Aprilia will be serviced. The alternate dealers 
 for Aprilia service are in Calgary or Montreal. Minneapolis is usually a more convenient location for us to get the service. 
 
 We are both riding on the BMW from Lakeville, MN to [Winona, MN] (https://www.en.m.wikipedia.org). We picked up highway 52 south (south of Minneapolis/St. Paul) in the direction of Hampton. We turned east on highway 50/61 through Milesville. 
@@ -28,7 +28,7 @@ At Red Wing highway 61 follows the Mississippi River and is called The Great Riv
 Mississippi head waters, and runs through the states of Minnisota, Illinois, Missouri, Kentucky, Arkansa, Tennesse, Mississippi, 
 and Alabama to finally drain into the Gulf of Mexico (3rd largest river in the United States and is 2,300 miles that is 3,701 km). Highway 61 rambles along the Mississippi running parallel to it from Frontenac to Reads Landing and then from just before Minneiska to just before Winona. If you want to get more views of the river cross into Wisconsin at Red Wing following highway 35 which hugs the Mississippi pretty much all the way to Winona. We had previously travelled this route via car (pre-BMW ownership). There are many wineries and picturesque spots on either side of the Mississippi regardless of which side you choose to ride on.
 
-We arrived in Winona and met up with our daughter and her fiance at [The Plaza Hotel & Suites] (https://www.plazawinona.com). We then went to the play Shakespeare in Love performed by the very talented group of performers which usually play parts in the 3 to 4 productions that run from late June to early August at the  [The Great River Shakespeare Festival] (https://www.grsf.org) The venue is the Winona State University Performing Arts Center [Winona State University] (https://www.winona.edu). I just love the festival here everyone is very friendly and they have pre-show talks, food trucks, souvenirs. The talent is very big city with small town Winona charm. 
+We arrived in [Winona] (https://www.winona.com) and met up with our daughter and her fiance at [The Plaza Hotel & Suites] (https://www.plazawinona.com). We then went to the play Shakespeare in Love performed by the very talented group of performers which usually play parts in the 3 to 4 productions that run from late June to early August at the  [The Great River Shakespeare Festival] (https://www.grsf.org) The venue is the Winona State University Performing Arts Center [Winona State University] (https://www.winona.edu). I just love the festival here everyone is very friendly and they have pre-show talks, food trucks, souvenirs. The talent is very big city with small town Winona charm. 
 
 **July 28 - Winona, MN - Grand Forks, ND**
 
