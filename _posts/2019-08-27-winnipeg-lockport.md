@@ -16,7 +16,7 @@ Leaving from the south perimeter at Pembina Highway we circle around and go nort
 
 Once you have had your stop with a bite or not you drive over the bridge. Careful it can be quite windy at the top. You can head south on Red River Drive back to the perimeter driving on the west side of the Red River. On this side you will see Captain Corelli's house with a rest stop near by. Many years ago they were running a pleasant cafe at the back of the house. Unfortunately, it no longer exists. There is another rest stop further down then you will see the golf course before hitting the highway. Take highway 9 south to the perimeter and retrace your steps back.
 
-**MAP**
+
 ![MAP](https://github.com/klovetri/photos-for-website/blob/master/Lockport.png)
                          
 
