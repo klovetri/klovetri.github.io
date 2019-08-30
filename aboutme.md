@@ -34,9 +34,8 @@ After many years (15 or so) and 3 other living locations we moved back to Winnip
 An aside - A pillion is a secondary pad, cushion or seat behind the main seat or saddle of a horse, motorcycle, bicycle or moped. A passenger in this seat is said to "ride pillion". The word is derived from the Scottish Gaelic for "little rug". Thank you Wikipedia.
 
 In 2017, I wanted the challenge of being more than an observer on the pillion.
-This is where the history stops and the blog posts begin. 
+This is where the history stops and the posts begin. 
 
-[Kawasaki 305 small]: http://klovetri.github.com/images/Kawasaki 305 small.jpg.
 
 
 
