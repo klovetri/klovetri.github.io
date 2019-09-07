@@ -2,7 +2,7 @@
 layout: post
 title: WINNIPEG-CROOKSTON-BAXTER-FARGO (1220 KM)
 subtitle: The Last Long Ride of 2019
-bigimg: /img/Crookbaxtermap.png
+bigimg: /img/pth.jpg
 tags: []
 ---
 
