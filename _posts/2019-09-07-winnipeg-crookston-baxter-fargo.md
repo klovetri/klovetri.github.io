@@ -12,7 +12,17 @@ tags: []
 
 The temperature was about 21 degrees C, I had my riding gear on with all flaps closed and would not of minded having my rain liner on, feeling of summer heat fading away. The wind was light.
 
-We left Winnipeg in the late afternoon since the destination was only 250 km away, we choose to take historic [Hwy 75] (www.scenicbyways.infor/search.html?q=hwy+75), which in the United States is designated as one of their Scenic Route Highways at a length of over 1200 km running from the northern state of Minnesota to Texas. This will no doubt be a future destination for riding. From Winnipeg to the Canada-USA border it is our well worn path south on Hwy 75 to the Emerson border crossing. Once over the border you exit at Pembina and take the second left heading North onto Hwy 59/75. This is a 2 way highway but has very low traffic. It is definately pleasant riding through miles of farm land. At this time there are numerous farmers working to take there cash crops of wheat, corn and sugar beets off the land and into the numerous grain bins or in long plastic bags on the ground. This really is an overwhelming site to see how much product is grown and how many lives depend on this for sustenance as food or money. Along the way you pass through some very small towns (Hallock, Donaldson, Warren, Euclid).
+We left Winnipeg in the late afternoon since the destination was only 250 km away, we choose to take historic ![Hwy 75](www.scenicbyways.infor/search.html?q=hwy+75), which in the United States is designated as one of their Scenic Route Highways at a length of over 1200 km running from the northern state of Minnesota to Texas. This will no doubt be a future destination for riding. From Winnipeg to the Canada-USA border it is our well worn path south on Hwy 75 to the Emerson border crossing. Once over the border you exit at Pembina and take the second left heading North onto Hwy 59/75. This is a 2 way highway but has very low traffic. It is definately pleasant riding through miles of farm land. At this time there are numerous farmers working to take there cash crops of wheat, corn and sugar beets off the land and into the numerous grain bins or in long plastic bags on the ground. This really is an overwhelming site to see how much product is grown and how many lives depend on this for sustenance as food or money. Along the way you pass through some very small towns (Hallock, Donaldson, Warren, Euclid).
 
-[Revelation Ale Works] (www.revales.com/)
-I had a taste of their fine wheat beer at [Draft Sports Bar] (www.draftssportsbar.com/)
+![Revelation Ale Works] (www.revales.com/)
+I had a taste of their fine wheat beer at ![Draft Sports Bar](www.draftssportsbar.com/) it was the Edison's Medicine NE IPA. Joe got a chance to sample 2 of the ![Burning Brothers](https://www.burnbrosbrew.com) gluten free beers; the pyro (image of pie Roe symbols on can) and Most Coast, he preferred the Most Coast. Check out their website they are a gluten free facility, and if you are close by they are located in St. Paul, MN.
+
+**August 31 - CROOKSTON TO BAXTER, MN**
+
+
+
+Well I bid a farewell to the last long trip on 2019 but have a few ideas for the 2020 riding season and where it may take us. Destinations dreaming of for 2020: Alaska, Canadian East Coast, Mount Rushmore, West Shore of Lake Superior between Thunder Bay and Duluth and I have just run out of holidays!!
+
+Happy riding into the fall!
+
+Over the winter I will be posting some of the past rides that I have taken. I usually put a first sentence stating when I did the ride .
