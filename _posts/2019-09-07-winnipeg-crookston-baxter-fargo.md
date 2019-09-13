@@ -24,6 +24,12 @@ Once we got to Crookston and unloaded and freshed up it was time to look for an 
 
 
 
+**September 1 - BAXTER TO FARGO, ND**
+
+**September 2 - FARGO - WINNIPEG**
+
+
+
 Well I bid a farewell to the last long trip on 2019 but have a few ideas for the 2020 riding season and where it may take us. Destinations dreaming of for 2020: Alaska, Canadian East Coast, Mount Rushmore, West Shore of Lake Superior between Thunder Bay and Duluth and I have just run out of holidays!!
 
 Happy riding into the fall!
