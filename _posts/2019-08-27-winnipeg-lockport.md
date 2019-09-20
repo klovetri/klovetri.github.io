@@ -2,7 +2,7 @@
 layout: post
 title: WINNIPEG-LOCKPORT (115 KM)
 subtitle: Short evening ride around Winnipeg
-bigimg: /img/path.jpg
+bigimg: /img/locks.jpg
 tags: []
 ---
 
