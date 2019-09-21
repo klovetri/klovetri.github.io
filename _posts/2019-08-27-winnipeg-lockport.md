@@ -7,7 +7,9 @@ tags: []
 ---
 
 This was posted in 2019 but the ride was in **2018**
-The above photo is of the [St. Andrews Lock and Dam] (http://www.mhs.mb.ca/docs/sites/standrewslockanddam.shtml). It is a designated National Historic Site and is a "Camere" curtain dam. It was completed in 1910 and is the only one of its kind in the prairies.
+
+
+The above photo is of the [St. Andrews Lock and Dam](https://www.mhs.mb.ca/docs/sites/standrewslockanddam.shtml). It is a designated National Historic Site and is a "Camere" curtain dam. It was completed in 1910 and is the only one of its kind in the prairies.
 
 **April 19, 2018** 
 
@@ -19,7 +21,7 @@ On the east side of the locks is [Lockport Heritage Park](https://www.travelmani
 The locks is a very tall iron bridge with good views either north or south as you are driving over. Careful it can be quite windy at the top. After crossing over the bridge take the first left then and at the STOP sign take another left which will bring you to Red River Drive and make a right. You are now driving on the west side of the Red River. On this side you will see [Captain Kennedy House](https://www.mhs.mb.ca) with a rest stop near by. Many years ago they were running a pleasant cafe at the back of the house. Unfortunately, it no longer exists since the building is in need of extensive repairs which have been long [overdue](https://wwwredrivernorthtourism.com). There is a political issue around this which may be of interest click on the word overdue above. There is another rest stop further down and if you fancy golf there is a plesant course [Larters](https://www.larters.com) just before hitting the highway. Red River Drive will lead you back to highway 9, head south until you hit the perimeter.
 
 
-![MAP](https://klovetri.github.io/img/Lockport.png)
+![MAP](https://klovetri.github.io/img/lockportmap.png)
 
 Happy riding!!
                          
