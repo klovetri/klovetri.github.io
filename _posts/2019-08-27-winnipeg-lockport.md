@@ -7,6 +7,7 @@ tags: []
 ---
 
 This was posted in 2019 but the ride was in **2018**
+The above photo is of the [St. Andrews Lock and Dam] (http://www.mhs.mb.ca/docs/sites/standrewslockanddam.shtml). It is a designated National Historic Site and is a "Camere" curtain dam. It was completed in 1910 and is the only one of its kind in the prairies.
 
 **April 19, 2018** 
 
