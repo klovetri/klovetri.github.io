@@ -5,6 +5,7 @@ subtitle: Exploring Manitoba by Motorcycle
 bigimg: /img/Rainyriver2019.jpg
 tags: []
 ---
+The above photo is from our August 2019 ride where we had an overnight in Fort Frances, Ontario
 
 **July 13, 2019**
 
