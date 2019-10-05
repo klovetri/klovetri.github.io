@@ -35,7 +35,7 @@ view or try some fishing.
 Courchaine Rd connects you to St. Mary’s Road (Hwy 200) turn right and travel South for 29 km. When you just turn onto 
 St. Mary’s Road you will come into 2 nice curvies and that will be the end of that for the rest of the ride. 
 You will drive by  [A Maze in Corn](https://www.cornmaze.ca/), a great spot later in the season for some family fun. 
-You will pass thru the town of St. Adolphe which has the St. Adolphe drive in that is boasting a large number of gelato flavors 
+You will pass thru the town of St. Adolphe which has the St. Adolphe Drive Inn that is boasting a large number of gelato flavors 
 (next ride we will have to try it). You will pass the turn off to Niverville then the turn off to Ste. Agathe. 
 Just after the Ste. Agathe turn off the adventure starts since the ashphalt turns into gravel, for the most part you can find 
 some tracks in the gravel that make this ride not to hair raising and the fact that the traffic is very low the chances of 
