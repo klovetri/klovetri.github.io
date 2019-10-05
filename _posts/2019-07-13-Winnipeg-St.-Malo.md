@@ -5,7 +5,7 @@ subtitle: Exploring Manitoba by Motorcycle
 bigimg: /img/SMalo.jpg
 tags: []
 ---
-The above photo is the St Malo dam at the Rat River
+The above photo is the St Malo dam at the Rat River. this Dame makes the reservoir know as [St. Malo Lake](https://www.travelmanitoba.com) a popular summer camping destination
 
 **July 13, 2019**
 
@@ -62,7 +62,9 @@ This will take you back to Hwy 200 turn left and back track the same way you cam
 Once you cross over the floodway bridge you can continue up St. Mary’s Road to the perimeter and make your way home from there.
 
 Of course the easy ride with no gravel is go South on Hwy 59 from Winnipeg to St. Malo and return via the same way, but that 
-wouldn't be as much of an adventure.![MAP](https://klovetri.github.io/img/SMalo.pdf)
+wouldn't be as much of an adventure.
+
+![MAP](https://klovetri.github.io/img/Map St. Malo ride.pdf)
 
 
 
