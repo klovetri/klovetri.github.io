@@ -2,9 +2,10 @@
 layout: post
 title: WINNIPEG-FARGO-ST. CLOUD-FORT FRANCES (1548 KM)
 subtitle: Exploring Minnesota by Motorcycle
-bigimg: /img/rainyriver2.jpg
+bigimg: /img/FFlge.jpg
 tags: []
 ---
+The above photo is the Rainy River in Fort Frances from our chairs in front of our room at the Bayview Hotel.
 
 **August 2 - WINNIPEG, MB TO FARGO, ND (346 KM)**
 
@@ -32,10 +33,14 @@ Exited at Hwy 210 which is the last exit for Fergus Falls, MN to catch the [Otte
 We picked up the ride from Hwy 210 and turned down Hwy 33 then to Hwy 35 to get to Dalton. This section of Hwy 33 has lots of curves and beautiful hilly terrain with very little traffic.
 At Dalton take Hwy 12 to the end and make a right turn onto Hwy 78 then a left turn onto Hwy 38 and you will find the town of Urbank.
 At Urbank turn left onto Hwy 59 then a left turn onto Hwy 40 which takes you back to Hwy 210 turn left (at this corner is an assortment of metal sculptures of big things at a gas station) and drive through the town of Vining (try to spot the big cloths pin and foot). Follow the 210 through Clitheral turn right onto Hwy 78 towards Battle Lake. Here we stopped at a beautiful lake side restaurant for a very hearty lunch at [Shoreline Restaurant & Lanes](http://www.shorelinebattlelake.com) (which was actually a breakfast plate, which is what the restaurant is known for) out on their patio. There tends to be some police presence in this little town but just watch your speed and you will stay clear of any trouble.
-![BattleLake](https://klovetri.github.io/img/Blake.jpg)
+
+Here is beautiful Battle Lake from the Shoreline Restaurant deck.
+
+![BattleLake](https://klovetri.github.io/img/battlelake.jpg)
+
 We continued on Hwy 78 around Otter Tail and Rush Lake and turned right onto Hwy 10 just before Perham. Hwy 10 takes you through the small towns of Wadena, Staples, Little Falls then right into St. Cloud.
 
-![Map](https://klovetri.github.io/img/FFtoStC.png)
+![Map](https://klovetri.github.io/img/FargoStC.png)
 
 **August 4th - ST. CLOUD, MN TO FORT FRANCES, ON (405 KM)**
 
