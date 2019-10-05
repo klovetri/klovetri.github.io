@@ -2,7 +2,7 @@
 layout: post
 title: WINNIPEG-STONEWALL (168 KM)
 subtitle: Exploring Stonewall, MB by Motorcycle
-bigimg: /img/kilns.jpg
+bigimg: /img/kilns2.jpeg
 tags: []
 ---
 The above photo is of the old kilns used in the past to process limestone into quicklime.
