@@ -2,10 +2,10 @@
 layout: post
 title: WINNIPEG-ST. MALO (162 KM)
 subtitle: Exploring Manitoba by Motorcycle
-bigimg: /img/Rainyriver2019.jpg
+bigimg: /img/SMalo.jpg
 tags: []
 ---
-The above photo is from our August 2019 ride where we had an overnight in Fort Frances, Ontario
+The above photo is the St Malo dam at the Rat River
 
 **July 13, 2019**
 
