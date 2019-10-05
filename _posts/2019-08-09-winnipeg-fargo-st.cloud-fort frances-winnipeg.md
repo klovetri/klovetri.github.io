@@ -17,6 +17,7 @@ The only time that I got heated up was waiting at the Canada-United States borde
 Fortunately, the wait was only about 10 minutes. 
 We had a great riding day, sunny, clear, and no cross wind (yah whoo!!).
 We made a quick gas and snack stop in Grand Forks and we saw a lot of cyclists either driving or hauling there bikes in the direction of [Sturgis](https://www.sturgismotorcyclerally.com/index.php?page=home), South Dakota as the yearly ritual had just begun.
+![Map](https://klovetri.github.io/img/WpgFargomap.png)
 
 **August 3rd - FARGO, ND TO ST. CLOUD, MN (417 KM)**
 
@@ -30,7 +31,7 @@ We picked up the ride from Hwy 210 and turned down Hwy 33 then to Hwy 35 to get 
 At Dalton take Hwy 12 to the end and make a right turn onto Hwy 78 then a left turn onto Hwy 38 and you will find the town of Urbank.
 At Urbank turn left onto Hwy 59 then a left turn onto Hwy 40 which takes you back to Hwy 210 turn left (at this corner is an assortment of metal sculptures of big things at a gas station) and drive through the town of Vining (try to spot the big cloths pin and foot). Follow the 210 through Clitheral turn right onto Hwy 78 towards Battle Lake. Here we stopped at a beautiful lake side restaurant for a very hearty lunch at [Shoreline Restaurant & Lanes](http://www.shorelinebattlelake.com) (which was actually a breakfast plate, which is what the restaurant is known for) out on their patio. There tends to be some police presence in this little town but just watch your speed and you will stay clear of any trouble.
 We continued on Hwy 78 around Otter Tail and Rush Lake and turned right onto Hwy 10 just before Perham. Hwy 10 takes you through the small towns of Wadena, Staples, Little Falls then right into St. Cloud.
-![BattleLake](https://klovetri.github.io/openroad1.jpg)
+![BattleLake](https://klovetri.github.io/.jpg)
 
 **August 4th - ST. CLOUD, MN TO FORT FRANCES, ON (405 KM)**
 
