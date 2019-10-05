@@ -5,7 +5,7 @@ subtitle: Exploring Manitoba by Motorcycle
 bigimg: /img/SMalo.jpg
 tags: []
 ---
-The above photo is the St Malo dam at the Rat River. this Dame makes the reservoir know as [St. Malo Lake](https://www.travelmanitoba.com) a popular summer camping destination
+The above photo is the St Malo dam at the Rat River. This Dam makes the reservoir know as [St. Malo Lake](https://www.travelmanitoba.com) a popular summer camping destination.
 
 **July 13, 2019**
 
