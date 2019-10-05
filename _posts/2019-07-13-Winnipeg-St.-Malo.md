@@ -64,7 +64,7 @@ Once you cross over the floodway bridge you can continue up St. Mary’s Road to
 Of course the easy ride with no gravel is go South on Hwy 59 from Winnipeg to St. Malo and return via the same way, but that 
 wouldn't be as much of an adventure.
 
-Map ![Map] (https://klovetri.github.io/img/Map St. Malo ride.pdf)
+Map ![Map](https://klovetri.github.io/img/Map St. Malo ride.pdf)
 
 Happy riding and let us know about the adventure rides you have done in Manitoba!!
 Until the next post.
