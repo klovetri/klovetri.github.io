@@ -21,7 +21,7 @@ Along the way you pass through some very small towns (Hallock, Donaldson, Argyle
 Once in Crookston we unloaded and freshed up it was time to look for an upbeat place to get ourselves some sustanance. Not too far down the road was [Draft Sports Bar] (http://www.draftssportsbar.com/),the hotel attendent recommended it to us. Once we arrived we sought out some of the local beers. I had a taste of a fine wheat beer made in Hallock at ![Revelation Ale Works](www.revales.com)it was the Edison's Medicine NE IPA. Joe got a chance to sample 2 of the ![Burning Brothers](https://www.burnbrosbrew.com) gluten free beers; the pyro and Most Coast, he preferred the Most Coast. ![Pyro](https://klovetri.github.io/img/pyro2.png)
 
 Check out their website they are a gluten free facility, and if you are close by drop in for a visit they are located in St. Paul, MN.
-![Map](https://klovetri.github.io/img/Map Wpg to Crookston.png)
+![Map](https://klovetri.github.io/img/EtoC.png)
 
 
 
