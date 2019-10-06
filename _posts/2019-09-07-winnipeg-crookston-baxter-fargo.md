@@ -28,7 +28,7 @@ and Most Coast, he preferred the Most Coast. Check out their website they are a 
 
 **August 31 - CROOKSTON TO BAXTER, MN**
 
-![Map](https://klovetri.githus.io/img/
+![Map](https://klovetri.githus.io/img/Crooktobaxter.png)
 
 **September 1 - BAXTER TO FARGO, ND**
 
