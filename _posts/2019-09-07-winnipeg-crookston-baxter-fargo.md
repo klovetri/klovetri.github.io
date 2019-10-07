@@ -37,11 +37,13 @@ Back on the bike continuing south on Highway 71 to Highway 87 turning left (east
 
 ![Map](https://klovetri.github.io/img/Crooktobaxtermap.png)
 
-**September 1 - BAXTER TO FARGO, ND (KM)**
+**September 1 - BAXTER TO FARGO, ND (379 KM)**
 
-Today was a cloudy dark day which lasted the full day but we did not get any rain, the temperature didn't get any higher than 17 degrees C. The hotel attendent seeing we were on motorcycles suggested the route around Gull Lake was a very popular ride. We took her advice and left Baxter heading north on Highway 371 turning left onto Pine Beach Road/County Hwy 77SW/Interlacken Road all the way around Gull Lake. This was a scenic drive.
+Today was a cloudy dark day which lasted the full day but we did not get any rain, the temperature didn't get any higher than 17 degrees C. The hotel attendant seeing we were on motorcycles suggested the route around Gull Lake was a very popular ride. We took her advice and left Baxter heading north on Highway 371 turning left onto Pine Beach Road/County Hwy 77SW/Interlacken Road all the way around Gull Lake. This was a scenic drive.
 
 ![Map](https://klovetri.github.io/img/Gulllakemap.png)
+
+From here we continued on County Road 13 to Lake Hubert to County Road 4 North to county Road 118N
 
 **September 2 - FARGO - WINNIPEG**
 
