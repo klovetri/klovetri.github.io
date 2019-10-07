@@ -18,11 +18,11 @@ Once over the border you exit at Pembina and head east over the overpass then ta
 
 Along the way you pass through some very small towns (Hallock, Donaldson, Argyle, Warren, Euclid). We made a gas stop in Argyle and just across the road was The Dell Steakhouse & Lounge which looked like the happening spot in town on a Friday night. I checked it out on TripAdvisor and it had 1 very good review. If you are the neighborhood check it out and let us know if it lives up to its appearance and 1 review!!
 
-Once in Crookston we unloaded and freshed up. It was time to look for an upbeat place to get ourselves some sustanance. Not too far down the road was [Draft Sports Bar](https://www.draftssportsbar.com),the hotel attendent recommended it to us. Once we arrived we sought out some of the local beers. I had a taste of a fine wheat beer made in Hallock at [Revelation Ale Works](www.revales.com) called Edison's Medicine NE IPA. Joe got a chance to sample 2 of the [Burning Brothers](https://www.burnbrosbrew.com) gluten free beers; the pyro and Most Coast, he preferred the Most Coast. 
+Once in Crookston we unloaded and freshed up. It was time to look for an upbeat place to get ourselves some sustanance. Not too far down the road was [Draft Sports Bar](https://www.draftssportsbar.com), the hotel attendent recommended it to us. Once we arrived we sought out some of the local beers. I had a taste of a fine wheat beer made in Hallock at [Revelation Ale Works](www.revales.com) called Edison's Medicine NE IPA. Joe got a chance to sample 2 of the [Burning Brothers](https://www.burnbrosbrew.com) gluten free beers; the pyro and Most Coast, he preferred the Most Coast. If you have a math background you will get the symbols on the beer can.
 
 ![Pyro](https://klovetri.github.io/img/pyro2.png)
 
-Check out their website they are a gluten free facility, and if you are in the St. Paul, MN area please drop in for a visit.
+Check out their website they are a gluten free facility, and if you are in the St. Paul, MN area please drop in for a visit. We will definately dropping in the next time we are in the area.
 ![Map](https://klovetri.github.io/img/EtoC.png)
 
 
