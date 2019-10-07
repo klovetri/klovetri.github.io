@@ -23,6 +23,8 @@ Once in Crookston we unloaded and freshed up. It was time to look for an upbeat 
 ![Pyro](https://klovetri.github.io/img/pyro2.png)
 
 Check out their website they are a gluten free facility, and if you are in the St. Paul, MN area please drop in for a visit. We will definately dropping in the next time we are in the area.
+
+
 ![Map](https://klovetri.github.io/img/EtoC.png)
 
 
@@ -31,7 +33,7 @@ Check out their website they are a gluten free facility, and if you are in the S
 **August 31 - CROOKSTON TO BAXTER, MN (342 KM)**
 
 We started the day with an easy jog around the northeast area of Crookston before we started riding. It was about 18 degrees C. when we got packed up and ready for our day of riding to Baxter. We headed East on Highway 2 to Highway 59. South on highway 59 to highway 113 at Waubun we went east towards Itasca State Park. I was so anxious to get on highway 113 (I had read that it was a great ride) that I opted not to stop at the Ez-1 Stop at the corner of Hwy 59 and 113. Mistake!! we had ridden already 1 hour and we really needed to get a warm drink and a rest since there was no other gas station on the highway 113. We did stop at the Tulaby Lake lookout/boat launch. Thank goodness I had packed some cookies and some pop to tie us over. The lookout had a nice view and a portapottie. After a rest we continued our ride to Highway 71. We went south on the 71 to Park Rapids. We stopped in Park Rapids at the A&W for lunch. this A&W was a real blast in the past. It still had the drive in with the microphone and the waitress will deliver your order to your car window. I know I am dating myself but it was really cool to have the service and memories of days gone by. Also US A&W do not have a teenburger, this is a Canadian burger!!.
-Back on the bike continuing south on highway 71 to highway 87 turning left (east). Ride to highway 64 and turn right (south) which turns back to the 87 through Backus to highway 371. This stretch of road takes you around the south point of Long Lake through Badoura State and Foot Hills State Forests. These are two way highways but not heavily traveled so the riding was delightful. At the 371 we went North to get back on highway 87 (right turn, east) to highway 84 (right turn, south) that brought us to Pine River and back to Highwasy 371. We took the 371 south to Baxter. I would recommend taking the roads less travelled in this part of Minnesota, the roads are paved and not busy and offers some very nice scenery, twisties and generally great riding. 
+Back on the bike continuing south on Highway 71 to Highway 87 turning left (east). Ride to Highway 64 and turn right (south) which turns back to the 87 through Backus to Highway 371. This stretch of road takes you around the south point of Long Lake through Badoura State and Foot Hills State Forests. These are two way highways but not heavily traveled so the riding was delightful. At the 371 we went North to get back on Highway 87 (right turn, east) to Highway 84 (right turn, south) that brought us to Pine River and back to Highway 371. We took the 371 south to Baxter. Highway 371 is a major throughfare and is very busy as it services a lot of the tourist areas in this part of Minnesota. I would recommend taking the roads less travelled in this part of Minnesota, the roads are paved and not busy and offers some very nice scenery, twisties and generally great riding. 
 
 ![Map](https://klovetri.githus.io/img/Crooktobaxtermap.png)
 
