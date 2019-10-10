@@ -43,7 +43,9 @@ Today was a cloudy dark day which lasted the full day but we did not get any rai
 
 ![Map](https://klovetri.github.io/img/Gulllakemap.png)
 
-From here we continued on County Road 13 to Lake Hubert to County Road 4 North to county Road 118N
+From here we continued on County Road 13 to Lake Hubert to County Road 4 North to county Road 118N to Ross Point road then onto Pelican Lake Rd to Pelican Lane to Hwy 3. Hwy 3 North to Cross Lake, keep following Hwy 3 up to Hwy 1 going east to the town of Emily. Once at Emily we headed North on Hwy 6 through towns of Outing and up to Remer. this route was very busy with the quads having a well work trail in the ditches and they would gather at the towns of Outing and Remer where they would gather in groups of 15 to 25 quads. They looked like they were having a great time.
+![Map](https://klovetri.github.io/Emilymap.png)
+![
 
 **September 2 - FARGO - WINNIPEG**
 
