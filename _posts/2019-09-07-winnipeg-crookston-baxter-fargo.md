@@ -49,7 +49,7 @@ From here we continued on County Road 13 to Lake Hubert to County Road 4 North t
 
 ![Map](https://klovetri.github.io/img/EmilyRemermap.png)
 
-At Remer we took Hwy 200 in the direction of Walker. We have been to Walker 2 previous rides. We always enjoy stopping in this little picturesque town. If you are in the area stop at the lake front park and take a walk to the small lighthouse. At Walker we took Hwy 34 through the towns of Akeley, Nevis, Park Rapids, Osage, Detroit Lakes and then to Fargo. We decided to take Hwy 10 from Detroit Lakes right through to Fargo. This was not the best route to take good thing the temperature was not hot as there was a lot of stop and go. It was the first time we saw this part of Fargo.
+At Remer we took Hwy 200 in the direction of Walker. We have been to Walker on 2 previous rides. We always enjoy stopping in this little picturesque town. If you are in the area stop at the lake front park and take a walk to the small lighthouse. At Walker we took Hwy 34 through the towns of Akeley, Nevis, Park Rapids, Osage, Detroit Lakes and then to Fargo. We decided to take Hwy 10 from Detroit Lakes right through to Fargo. This was not the best route to take good thing the temperature was not hot as there was a lot of stop and go. It was the first time we saw this part of Fargo.
 
 ![Map](https://klovetri.github.io/img/BaxterFargomap.png)
 
