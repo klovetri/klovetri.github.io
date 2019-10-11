@@ -44,14 +44,22 @@ Today was a cloudy dark day which lasted the full day but we did not get any rai
 ![Map](https://klovetri.github.io/img/Gulllakemap.png)
 
 From here we continued on County Road 13 to Lake Hubert to County Road 4 North to county Road 118N to Ross Point road then onto Pelican Lake Rd to Pelican Lane to Hwy 3. Hwy 3 North to Cross Lake, keep following Hwy 3 up to Hwy 1 going east to the town of Emily. Once at Emily we headed North on Hwy 6 through towns of Outing and up to Remer. this route was very busy with the quads having a well work trail in the ditches and they would gather at the towns of Outing and Remer where they would gather in groups of 15 to 25 quads. They looked like they were having a great time.
-![Map](https://klovetri.github.io/Emilymap.png)
-![
+
+![Map](https://klovetri.github.io/img/Emilymap.png)
+
+![Map](https://klovetri.github.io/img/EmilyRemermap.png)
+
+At Remer we took Hwy 200 in the direction of Walker. We have been to Walker 2 previous rides. We always enjoy stopping in this little picturesque town. If you are in the area stop at the lake front park and take a walk to the small lighthouse. At Walker we took Hwy 34 through the towns of Akeley, Nevis, Park Rapids, Osage, Detroit Lakes and then to Fargo. We decided to take Hwy 10 from Detroit Lakes right through to Fargo. This was not the best route to take good thing the temperature was not hot as there was a lot of stop and go. It was the first time we saw this part of Fargo.
+
+![Map](https://klovetri.github.io/img/BaxterFargomap.png)
+
+
 
 **September 2 - FARGO - WINNIPEG**
 
+We made our regular stop in Fargo, visiting Wild Bills Sports Saloon, Happy Harry's and Kohl's and made our way back to Winnipeg. We were happy we got to ride the weekend with out any rain. Well I bid a farewell to the last long trip on 2019 but have a few ideas for the 2020 riding season and where it may take us. 
 
-
-Well I bid a farewell to the last long trip on 2019 but have a few ideas for the 2020 riding season and where it may take us. Destinations dreaming of for 2020: Alaska, Canadian East Coast, Mount Rushmore, West Shore of Lake Superior between Thunder Bay and Duluth and I have just run out of holidays!!
+Destinations dreaming of for 2020: Alaska, Canadian East Coast, Mount Rushmore, West Shore of Lake Superior between Thunder Bay and Duluth and I have just run out of holidays!!
 
 Happy riding into the fall!
 
