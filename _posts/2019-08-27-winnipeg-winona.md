@@ -36,7 +36,13 @@ We arrived in [Winona](https://www.winona.com) and met up with our daughter and 
 
 Before leaving Winona we had time to drive up to Griffin Park and Lookout. Then we took a walk around one of the Lakes (rental of boats available) which are part of Winona and are bulges in the Mississippi River. From Winona we retraced out steps back to Leo's South to pick up the Aprilia. We got a great view of a beautiful American eagle riding near Lake Pepin. We made a lunch stop in Red Wing at [Randy's](http://randysinredwing.com/) which had gluten free bread. We saw a wild turkey near Alexandria and that was about all the for wildlife that we saw. We had to stay in Grand Forks since majority of hotels were booked for that night in Fargo. The next day we rode the traditional route I-29 from Grand Forks to Winnipeg.
 
-![Map](https://klovetri.github.io/img/winonamap.png)
+![Map](https://klovetri.github.io/img/WpgMinn.png)
+![Map](https://klovetri.github.io/img/MinWin.png)
+
+
+This was a ride that was done to get to 2 specific destinations with a short time line so we did not go off of the beaten path except when we got to the Great River Road on the way to and from Winona, MN.
+
+HAPPY RIDES!!
 
 
 
