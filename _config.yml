@@ -99,13 +99,13 @@ url-pretty: "https:klovetri.github.io"  # eg. "deanattali.com/beautiful-jekyll"
  --- Web Statistics Section ---
 
 Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag('config','UA-149924385-1')
+gtag: "('config','UA-149924385-1')"
 
-#Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "149924385"
+Fill in your Google Analytics ID to track your website using GA
+google_analytics: "UA-149924385-1"
 
-# Google Tag Manager ID
-#gtm: ""
+Google Tag Manager ID
+gtm: "UA-149924385-1"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
