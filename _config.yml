@@ -99,15 +99,7 @@ url-pretty: "https:klovetri.github.io"  # eg. "deanattali.com/beautiful-jekyll"
  --- Web Statistics Section ---
 
 Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149924385-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date(October 12, 2019));
-
-  gtag('config', 'UA-149924385-1');
-</script>"
+gtag: "UA-149924385-1"
 
 
 Fill in your Google Analytics ID to track your website using GA
@@ -125,13 +117,13 @@ gtm: "UA-149924385-1"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
 
-# --- Comments --- #
+ --- Comments --- 
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 # disqus: ""
 
-# If you want to use JustComments fill with the API Key
-#just-comments: "ABCD-EFGH-IJKL"
+If you want to use JustComments fill with the API Key
+just-comments: "LEAVE-A-COMMENT"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
