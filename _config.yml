@@ -99,7 +99,16 @@ url-pretty: "https:klovetri.github.io"  # eg. "deanattali.com/beautiful-jekyll"
  --- Web Statistics Section ---
 
 Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "('config','UA-149924385-1')"
+gtag: "<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149924385-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-149924385-1');
+</script>"
+
 
 Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-149924385-1"
