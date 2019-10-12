@@ -98,13 +98,12 @@ url-pretty: "https:klovetri.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
  --- Web Statistics Section ---
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbrentvollebregt%2Fhit-counter)
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
 #gtag: ""
 
-# Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+Fill in your Google Analytics ID to track your website using GA
+#google_analytics: "149924385"
 
 # Google Tag Manager ID
 #gtm: ""
