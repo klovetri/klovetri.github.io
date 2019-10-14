@@ -12,7 +12,7 @@ The above photo is the St Malo dam at the Rat river. This dam makes the reservoi
 It was about 26 degrees C.
 I rode with jeans and my riding jacket with my vents open with a t-shirt underneath.
 
-On this ride we are both riding on my BMW F700 GS since my husbands bike the Aprilia Caponord is in need of a new chain and sprocket which needs to be changed before any further riding is done.
+On this ride we are both riding on my BMW F700 GS since my husband's bike the Aprilia Caponord is in need of a new chain and sprocket which needs to be changed before any further riding is done.
 
 We are leaving from Pembina Hwy and the South perimeter at St. Norbert. The destination for this ride was the St. Malo hotel
 (we are not encouraging drinking and driving) but the reason I choose hotels is that many small towns will have a hotel that
@@ -43,16 +43,16 @@ meeting vehicles is low.
 You will continue on the gravel for 3.8 km and then Hwy 200 makes a sharp left, follow this for 30 km and turn left on Hwy 
 23, where you will be back on pavement and this road gives you an appreciation of how vast the fields are in this area 
 and the crops and people who rely on the weather to ensure a future. 
-You will make a right turn onto highway 59 which leads you to St. Malo, take a right on the 281 then a left onto 
+You will make a right turn onto Hwy 59 which leads you to St. Malo, take a right on the 281 then a left onto 
 Rue St. Malo (the main street) and the [St. Malo Motor Hotel](https://www.travelmanitoba.com/listings/st-malo-motor-hotel/3459/) 
 is the second building on your right. We stopped for a refreshment and had some friendly service and also noticed the place was
 really hopping with locals coming in for supper, sharing with friends and testing their luck at the VLT’s. 
-They have karioke and $3.00 pilsner beers on Friday nite.
+They have karioke and $3.00 pilsner beers on Friday nites.
 
-Our way back was a via highway 59 to St. Pierre-Jolys we took a left onto Joubert Road which changes to Rat River Road, 
+Our way back was a via Hwy 59 to St. Pierre-Jolys we took a left onto Joubert Road which changes to Rat River Road, 
 the road is gravel sprayed with oil so for the most part was easy to ride on. The road follows the very merky colored Rat River 
 to the town of Otterburne just under 9 km. Turn left onto RD 34N and you will see [Providence University College &
-Theological Seminary](https://www.prov.ca/) on your left. It looks like it is a growing place in the small town of Otterburne. 
+Theological Seminary](https://www.prov.ca/) on your left. The college is growing with signs of large construction on site. 
 Follow the RD 34N which takes a left onto Main Street of town followed by a right to continue on RD 34N but for some reason 
 the sign said Rd 17E. Don’t feel bad if you go right to the end of Main Street with the grain elevator on your right and make 
 a right turn to go over the tracks and see a dirt road. If you are up for more adventure let us know how that road turned out. 
@@ -68,5 +68,7 @@ wouldn't be as much of an adventure.
 
 Happy riding and let us know about the adventure rides you have done in Manitoba!!
 Until the next post.
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=htps%3A%2F%2Fgithub.com%2brentvollebregt%2hit-counter)
 
 
