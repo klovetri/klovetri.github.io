@@ -18,11 +18,11 @@ Once over the border you exit at Pembina and head east over the overpass then ta
 
 Along the way you pass through some very small towns (Hallock, Donaldson, Argyle, Warren, Euclid). We made a gas stop in Argyle and just across the road was The Dell Steakhouse & Lounge which looked like the happening spot in town on a Friday night. I checked it out on TripAdvisor and it had 1 very good review. If you are in the neighborhood check it out and let us know if it lives up to its appearance and 1 review!!
 
-Once in Crookston we unloaded and freshed up. It was time to look for an upbeat place to get ourselves some sustanance. Not too far down the road was [Draft Sports Bar](https://www.draftssportsbar.com), the hotel attendent recommended it to us. Once we arrived we sought out some of the local beers. I had a taste of a fine wheat beer made in Hallock at [Revelation Ale Works](www.revales.com) called Edison's Medicine NE IPA. Joe got a chance to sample 2 of the [Burning Brothers](https://www.burnbrosbrew.com) gluten free beers; the pyro and Most Coast, he preferred the Most Coast. If you have a math background you will get the symbols on the beer can.
+Once in Crookston we unloaded and freshed up. It was time to look for an upbeat place to get ourselves some sustanance. Not too far down the road was [Draft Sports Bar](https://www.draftssportsbar.com), the hotel attendent recommended it to us. Once we arrived we sought out some of the local beers. I had a taste of a fine wheat beer made in Hallock at [Revelation Ale Works](www.revales.com) called Edison's Medicine NE IPA. Joe got a chance to sample 2 of the [Burning Brothers](https://www.burnbrosbrew.com) gluten free beers; the PYRO and Most Coast, he preferred the Most Coast. If you have a math background you will get the symbols on the beer can.
 
 ![Pyro](https://klovetri.github.io/img/pyro2.png)
 
-Check out their website they are a gluten free facility, and if you are in the St. Paul, MN area please drop in for a visit. We will definately dropping in the next time we are in the area.
+Check out their website they are a gluten free facility, and if you are in the St. Paul, MN area please drop in for a visit. We will definately be dropping in the next time we are in the area.
 
 
 ![Map](https://klovetri.github.io/img/EtoC.png)
@@ -32,24 +32,24 @@ Check out their website they are a gluten free facility, and if you are in the S
 
 **August 31 - CROOKSTON TO BAXTER, MN (342 KM)**
 
-We started the day with an easy jog around the northeast area of Crookston before we started riding. It was about 18 degrees C. when we got packed up and ready for our day of riding to Baxter. We headed East on Highway 2 to Highway 59. South on highway 59 to highway 113 at Waubun we went east towards Itasca State Park. I was so anxious to get on highway 113 (I had read that it was a great ride) that I opted not to stop at the Ez-1 Stop at the corner of Hwy 59 and 113. Mistake!! we had ridden already 1 hour and we really needed to get a warm drink and a rest since there was no other gas station on the highway 113. We did stop at the Tulaby Lake lookout/boat launch. Thank goodness I had packed some cookies and some pop to tie us over. The lookout had a nice view and a portapottie. After a rest we continued our ride to Highway 71. We went south on the 71 to Park Rapids. We stopped in Park Rapids at the A&W for lunch. this A&W was a real blast in the past. It still had the drive in with the microphone and the waitress will deliver your order to your car window. I know I am dating myself but it was really cool to have the service and memories of days gone by. Also US A&W do not have a teenburger, this is a Canadian burger!!.
-Back on the bike continuing south on Highway 71 to Highway 87 turning left (east). Ride to Highway 64 and turn right (south) which turns back to the 87 through Backus to Highway 371. This stretch of road takes you around the south point of Long Lake through Badoura State and Foot Hills State Forests. These are two way highways but not heavily traveled so the riding was delightful. At the 371 we went North to get back on Highway 87 (right turn, east) to Highway 84 (right turn, south) that brought us to Pine River and back to Highway 371. We took the 371 south to Baxter. Highway 371 is a major throughfare and is very busy as it services a lot of the tourist areas in this part of Minnesota. I would recommend taking the roads less travelled in this part of Minnesota, the roads are paved and not busy and offers some very nice scenery, twisties and generally great riding. 
+We started the day with an easy jog around the northeast area of Crookston before we started riding. It was about 18 degrees C. once we got packed up and ready for our day of riding to Baxter. We headed East on Hwy 2 to Hwy 59. South on Hwy 59 to Hwy 113 at Waubun, where we went east towards Itasca State Park. I was so anxious to get on Hwy 113 (I had read that it was a great ride) that I opted not to stop at the Ez-1 Stop at the corner of Hwy 59 and 113. Mistake!! We had ridden already 1 hour and we really needed to get a warm drink and a rest since there was no other gas station on the Hwy 113. We did stop at the Tulaby Lake lookout/boat launch. Thank goodness I had packed some cookies and some pop to tie us over. The lookout had a nice view and a portapottie. After a rest we continued our ride to Hwy 71. We went south on the 71 to Park Rapids. We stopped in Park Rapids at the A&W for lunch. This A&W was a real blast from the past. It still had the original drive in sytle with the microphone for the order to be taken right from your car and the waitress will deliver your order to your car window. I know I am dating myself but it was really cool to have the service and memories of days gone by. Also in the US A&W do not have a teenburger, I believe this is a Canadian burger!!.
+Back on the bike continuing south on Hwy 71 to Hwy 87 turning left (east). Ride to Hwy 64 and turn right (south) which turns back to the 87 through Backus to Hwy 371. This stretch of road takes you around the south point of Long Lake through Badoura State and Foot Hills State Forests. These are two way highways but not heavily traveled so the riding was delightful. At the 371 we went North to get back on Hwy 87 (right turn, east) to Hwy 84 (right turn, south) that brought us to Pine River and back to Hwy 371. We took the 371 south to Baxter. Hwy 371 is a major throughfare and is very busy as it services a lot of the tourist areas in this part of Minnesota. I would recommend taking the roads less travelled in this part of Minnesota, the roads are paved and not busy and offers some very nice scenery, twisties and generally great riding. 
 
 ![Map](https://klovetri.github.io/img/Crooktobaxtermap.png)
 
 **September 1 - BAXTER TO FARGO, ND (379 KM)**
 
-Today was a cloudy dark day which lasted the full day but we did not get any rain, the temperature didn't get any higher than 17 degrees C. The hotel attendant seeing we were on motorcycles suggested the route around Gull Lake was a very popular ride. We took her advice and left Baxter heading north on Highway 371 turning left onto Pine Beach Road/County Hwy 77SW/Interlacken Road all the way around Gull Lake. This was a scenic drive.
+Today was a cloudy dark day which lasted the full day but we did not get any rain, the temperature didn't get any higher than 17 degrees C. The hotel attendant noticed (a cart full of hard cases and helmets) we were on motorcycles and suggested the route around Gull Lake was a very popular ride. We took her advice and left Baxter heading north on Hwy 371 turning left onto Pine Beach Road/County Hwy 77SW/Interlacken Road all the way around Gull Lake. This was a scenic drive.
 
 ![Map](https://klovetri.github.io/img/Gulllakemap.png)
 
-From here we continued on County Road 13 to Lake Hubert to County Road 4 North to county Road 118N to Ross Point road then onto Pelican Lake Rd to Pelican Lane to Hwy 3. Hwy 3 North to Cross Lake, keep following Hwy 3 up to Hwy 1 going east to the town of Emily. Once at Emily we headed North on Hwy 6 through towns of Outing and up to Remer. this route was very busy with the quads having a well work trail in the ditches and they would gather at the towns of Outing and Remer where they would gather in groups of 15 to 25 quads. They looked like they were having a great time.
+From here we continued on County Road 13 to Lake Hubert to County Road 4 North to County Road 118N to Ross Point road then onto Pelican Lake Rd to Pelican Lane to Hwy 3. Hwy 3 North to Cross Lake, keep following Hwy 3 up to Hwy 1 going east to the town of Emily. Once at Emily we headed North on Hwy 6 through towns of Outing and up to Remer. This route was very busy with the quads having a well work trail in the ditches and they would gather at the towns of Outing and Remer (groups of 15 to 25 quads). They looked like they were having a great time.
 
 ![Map](https://klovetri.github.io/img/Emilymap.png)
 
 ![Map](https://klovetri.github.io/img/EmilyRemermap.png)
 
-At Remer we took Hwy 200 in the direction of Walker. We have been to Walker on 2 previous rides. We always enjoy stopping in this little picturesque town. If you are in the area stop at the lake front park and take a walk to the small lighthouse. At Walker we took Hwy 34 through the towns of Akeley, Nevis, Park Rapids, Osage, Detroit Lakes and then to Fargo. We decided to take Hwy 10 from Detroit Lakes right through to Fargo. This was not the best route to take good thing the temperature was not hot as there was a lot of stop and go. It was the first time we saw this part of Fargo.
+At Remer we took Hwy 200 in the direction of Walker. We have been to Walker on 2 previous rides. We always enjoy stopping in this little picturesque town. If you are in the area stop at the Walker City Park and take a walk to the small lighthouse. From Walker we took Hwy 34 through the towns of Akeley, Nevis, Park Rapids, Osage, Detroit Lakes and then to Fargo. We decided to take Hwy 10 from Detroit Lakes right through to Fargo. This was not the best route to take good thing the temperature was not hot as there was a lot of stop and go. It was the first time we saw this part of Fargo.
 
 ![Map](https://klovetri.github.io/img/BaxterFargomap.png)
 
@@ -57,11 +57,15 @@ At Remer we took Hwy 200 in the direction of Walker. We have been to Walker on 2
 
 **September 2 - FARGO - WINNIPEG**
 
-We made our regular stop in Fargo, visiting Wild Bills Sports Saloon, Happy Harry's and Kohl's and made our way back to Winnipeg. We were happy we got to ride the weekend with out any rain. Well I bid a farewell to the last long trip on 2019 but have a few ideas for the 2020 riding season and where it may take us. 
+We made our regular stop in Fargo, visiting [Wild Bills Sports Saloon](https://wildbillssportsaloon.com), Happy Harry's and Kohl's and made our way back to Winnipeg. We were happy we got to ride the weekend with out any rain. 
 
-Destinations dreaming of for 2020: Alaska, Canadian East Coast, Mount Rushmore, West Shore of Lake Superior between Thunder Bay and Duluth and I have just run out of holidays!!
+Well I bid a farewell to the last long trip of 2019. 
+
+Destinations I am dreaming of for 2020: Alaska, Canadian East Coast, Mount Rushmore, West Shore of Lake Superior between Thunder Bay and Duluth and I have just run out of holidays!!
 
 Happy riding into the fall!
 
 Over the winter I will be posting some of the past rides that I have taken. I usually put a first sentence stating when I did the ride.
+
+
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=htps%3A%2F%2Fgithub.com%2brentvollebregt%2hit-counter)
