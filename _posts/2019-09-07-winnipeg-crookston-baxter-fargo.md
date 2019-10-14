@@ -16,7 +16,7 @@ We left Winnipeg in the late afternoon since the destination was only 250 km awa
 
 Once over the border you exit at Pembina and head east over the overpass then take the second left heading North onto Hwy 59/75. This is a two way highway but has very low traffic. It is definately pleasant riding through miles of farm land. At this time of year there were numerous farmers working to get there cash crops of wheat, corn and sugar beets off the land and into the numerous grain bins or in long plastic bags on the ground. This really is an overwhelming sight to see, how much product is grown and how many lives depend on this for sustenance (both food and income). 
 
-Along the way you pass through some very small towns (Hallock, Donaldson, Argyle, Warren, Euclid). We made a gas stop in Argyle and just across the road was The Dell Steakhouse & Lounge which looked like the happening spot in town on a Friday night. I checked it out on TripAdvisor and it had 1 very good review. If you are the neighborhood check it out and let us know if it lives up to its appearance and 1 review!!
+Along the way you pass through some very small towns (Hallock, Donaldson, Argyle, Warren, Euclid). We made a gas stop in Argyle and just across the road was The Dell Steakhouse & Lounge which looked like the happening spot in town on a Friday night. I checked it out on TripAdvisor and it had 1 very good review. If you are in the neighborhood check it out and let us know if it lives up to its appearance and 1 review!!
 
 Once in Crookston we unloaded and freshed up. It was time to look for an upbeat place to get ourselves some sustanance. Not too far down the road was [Draft Sports Bar](https://www.draftssportsbar.com), the hotel attendent recommended it to us. Once we arrived we sought out some of the local beers. I had a taste of a fine wheat beer made in Hallock at [Revelation Ale Works](www.revales.com) called Edison's Medicine NE IPA. Joe got a chance to sample 2 of the [Burning Brothers](https://www.burnbrosbrew.com) gluten free beers; the pyro and Most Coast, he preferred the Most Coast. If you have a math background you will get the symbols on the beer can.
 
@@ -63,4 +63,5 @@ Destinations dreaming of for 2020: Alaska, Canadian East Coast, Mount Rushmore, 
 
 Happy riding into the fall!
 
-Over the winter I will be posting some of the past rides that I have taken. I usually put a first sentence stating when I did the ride .
+Over the winter I will be posting some of the past rides that I have taken. I usually put a first sentence stating when I did the ride.
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=htps%3A%2F%2Fgithub.com%2brentvollebregt%2hit-counter)
