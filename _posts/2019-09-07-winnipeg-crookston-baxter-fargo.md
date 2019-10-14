@@ -65,7 +65,7 @@ Destinations I am dreaming of for 2020: Alaska, Canadian East Coast, Mount Rushm
 
 Happy riding into the fall!
 
-Over the winter I will be posting some of the past rides that I have taken. I usually put a first sentence stating when I did the ride.
+Over the winter I will be posting some of the past rides that we have taken. I usually put a first sentence stating when I did the ride.
 
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=htps%3A%2F%2Fgithub.com%2brentvollebregt%2hit-counter)
