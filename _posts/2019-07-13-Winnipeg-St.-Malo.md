@@ -12,7 +12,7 @@ The above photo is the St Malo dam at the Rat river. This dam makes the reservoi
 It was about 26 degrees C.
 I rode with jeans and my riding jacket with my vents open with a t-shirt underneath.
 
-On this ride we are both riding on my BMW F700 GS since my husband's bike the Aprilia Caponord is in need of a new chain and sprocket which needs to be changed before any further riding is done.
+On this ride we are both riding on my BMW F700 GS since Joe's bike the Aprilia Caponord is in need of a new chain and sprocket which needs to be changed before any further riding is done.
 
 We are leaving from Pembina Hwy and the South perimeter at St. Norbert. The destination for this ride was the St. Malo hotel
 (we are not encouraging drinking and driving) but the reason I choose hotels is that many small towns will have a hotel that
