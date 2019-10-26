@@ -97,17 +97,17 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 url-pretty: "https:klovetri.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
- --- Web Statistics Section ---
+ #--- Web Statistics Section ---
 
-Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "UA-149924385-1"
+#Fill in your Google Analytics gtag.js ID to track your website using gtag
+#gtag: "UA-149924385-1"
 
 
-Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-149924385-1"
+#Fill in your Google Analytics ID to track your website using GA
+#google_analytics: "UA-149924385-1"
 
-Google Tag Manager ID
-gtm: "UA-149924385-1"
+#Google Tag Manager ID
+#gtm: "UA-149924385-1"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
@@ -121,10 +121,10 @@ gtm: "UA-149924385-1"
  --- Comments --- 
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "Klovetri"
+#disqus: "Klovetri"
 
-If you want to use JustComments fill with the API Key
-just-comments: "LEAVE-A-COMMENT"
+#If you want to use JustComments fill with the API Key
+#just-comments: "LEAVE-A-COMMENT"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
